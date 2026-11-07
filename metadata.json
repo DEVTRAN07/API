@@ -1,0 +1,6 @@
+{
+  "name": "GitAPI Studio - GitHub & Custom REST API Hub for Vercel",
+  "description": "Nền tảng tạo, kiểm thử và xuất API REST tùy chỉnh từ GitHub repositories và mock data, sẵn sàng triển khai lên Vercel Serverless.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
